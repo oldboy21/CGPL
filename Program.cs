@@ -554,7 +554,7 @@ namespace CGPL
             
             if (VirtualAllocPtr == IntPtr.Zero || VirtualProtectPtr == IntPtr.Zero) {
 
-                Console.WriteLine("[-] Error retriving function address");
+                Console.WriteLine("[-] Error retrieving function address");
                 return;
             }
 
