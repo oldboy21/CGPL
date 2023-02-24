@@ -25,4 +25,7 @@ Also useful if you want to change the Win32 API I use with some other exotic one
 Che Bello (at least the last time I have tried):
 
 ![AntiScan.me](img/antiscan.png)
+
+Also some AI motivation: 
+
 ![AntiScan.me](img/aimotivation.png)
