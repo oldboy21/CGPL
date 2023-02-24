@@ -1,0 +1,8 @@
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\bin\Debug\CGPL.exe.config
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\bin\Debug\CGPL.exe
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\bin\Debug\CGPL.pdb
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\obj\Debug\CGPL.csproj.AssemblyReference.cache
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\obj\Debug\CGPL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\obj\Debug\CGPL.csproj.CoreCompileInputs.cache
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\obj\Debug\CGPL.exe
+C:\Users\Winbo\Personal\OffensiveC#\CGPL\obj\Debug\CGPL.pdb

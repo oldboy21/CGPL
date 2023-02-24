@@ -1,0 +1,8 @@
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\bin\Debug\OneImportShellcodeRunner.exe.config
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\bin\Debug\OneImportShellcodeRunner.exe
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\bin\Debug\OneImportShellcodeRunner.pdb
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\obj\Debug\OneImportShellcodeRunner.csproj.AssemblyReference.cache
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\obj\Debug\OneImportShellcodeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\obj\Debug\OneImportShellcodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\obj\Debug\OneImportShellcodeRunner.exe
+C:\Users\Winbo\OffensiveC#\OffensiveC-Scripts\Utils\OneImportShellcodeRunner\obj\Debug\OneImportShellcodeRunner.pdb
