@@ -1,7 +1,7 @@
 # CGPL - Yet, Another Packer/Loader 
 
 After going through the OSEP certification material and other nice courses about Offensive C# around the web, I've decided that it was time to share something I wrote. 
-CGPL (naming convention of my tools is annoying, I know) is a packer/loader written in C# with the following feature (planning to make this list bit longer in the future): 
+CGPL (*naming convention of my tools is annoying, I know*) is a packer/loader written in C# with the following feature (*planning to make this list bit longer in the future*): 
 
 * My very own **GetProcAddress** (*parsing PE headers is such a joy*) and **GetModuleHandle** (*decided to go for CreateToolhelp32Snapshot*) implementation 
 * **AES encryption** with a SHA256 derived key (*must admit got inspiration from some APT guys*) for payload and Win32 api function names (*delegates might still drop suspicious strings around, but you can also change those names*)
@@ -21,6 +21,6 @@ Also useful if you want to change the Win32 API I use with some other exotic one
 
 ## Results
 
-Che Bello:
+Che Bello (at the time of the upload):
 
-![AntiScan.me](images/antiscan.png)
+![AntiScan.me](img/antiscan.png)
