@@ -20,12 +20,12 @@ winbo:~$cat test.bin | base64 -w0
 The AesOperation.cs class implements also the *encrypt* function, so an entra *Console.WriteLine(...)* is needed to see how your payload would look like all encrypted (*tutto cablato*). 
 Also useful if you want to change the Win32 API I use with some other exotic ones. 
 
+## Some AI motivation
+ 
+![AntiScan.me](img/aimotivation.png)
+
 ## Results
 
 Che Bello (at least the last time I have tried):
 
 ![AntiScan.me](img/antiscan.png)
-
-Also some AI motivation: 
-
-![AntiScan.me](img/aimotivation.png)
